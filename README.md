@@ -2,12 +2,10 @@
 
 Title: Developed an Unsupervised AI model for Clustering 
 Tools Used: Machine learning, Unsupervised AI, Python (Pandas, NumPy, Matplotlib, Seaborn), Sick itlearn, K-Means Clustering, DBSCAN Clustering, HIERARCHICAL Clustering, Principal Component 
-Analysis (PCA), Statistics.
-Description: 
- Performed data extraction and cleaning, focusing on relevant features. 
- Conducted EDA with Matplotlib and Seaborn to identify patterns. Applied PCA for dimensionality 
-reduction, then used K-Means, DBSCAN, and Hierarchical Clustering for segmentation. 
- Evaluated clusters with the Elbow Method and Silhouette Scores, refining models for optimal 
-results. 
- Identified distinct clusters, providing insights for targeted marketing and data-driven strategies, 
-demonstrating the practical application of clustering techniques.
+Description:
+Data Preparation: Performed data extraction and cleaning, focusing on selecting and engineering relevant features.
+Exploratory Data Analysis (EDA): Conducted EDA using Matplotlib and Seaborn to uncover patterns and insights in the dataset.
+Dimensionality Reduction: Applied PCA to reduce dimensionality and enhance clustering performance.
+Clustering Techniques: Implemented K-Means, DBSCAN, and Hierarchical Clustering algorithms to segment the data into distinct groups.
+Model Evaluation: Used the Elbow Method and Silhouette Scores to evaluate and refine the clustering models for optimal results.
+Outcome: Successfully identified distinct clusters, providing actionable insights for targeted marketing strategies and showcasing the practical application of advanced clustering techniques.
